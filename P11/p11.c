@@ -53,7 +53,7 @@ int main(){
         printf("elements of second matrix are:\n");
         for(i=0;i<rowM2;i++){
             for(j=0;j<colM2;j++){
-                printf("\t%d",firstMx[i][j]);
+                printf("\t%d",secondMx[i][j]);
             }
             printf("\n");
         }
