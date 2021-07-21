@@ -1,9 +1,9 @@
 /******************************************************************************
 
-    Title: SineAndCosineSeries
+    Title: Sum and Avarage of an array
     Done by : Deepak M S 
     Date: 13/07/2021
-    Aim: To write a program to print the sine and cosine series.
+    Aim: To write a program to find the sum and average of elements in an array
 
 *******************************************************************************/
 #include <stdio.h>
